@@ -1,4 +1,4 @@
-/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150528-37370-1xsl8fg.rb extconf.rb
+/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150601-27326-m2v62d.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -8,4 +8,4 @@ compiling debug_inspector.c
 linking shared-object debug_inspector.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20150528-37370-1km9xbz
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20150601-27326-etoxd

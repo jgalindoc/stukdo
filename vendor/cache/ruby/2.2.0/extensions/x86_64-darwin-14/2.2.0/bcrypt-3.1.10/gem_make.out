@@ -1,4 +1,4 @@
-/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150528-39284-10c667h.rb extconf.rb
+/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150601-27326-vk1miz.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -44,4 +44,4 @@ compiling wrapper.c
 linking shared-object bcrypt_ext.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20150528-39284-92m6v7
+/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20150601-27326-al150l

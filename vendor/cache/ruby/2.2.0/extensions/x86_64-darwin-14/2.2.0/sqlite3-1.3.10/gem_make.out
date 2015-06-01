@@ -1,4 +1,4 @@
-/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150528-37370-4zgl27.rb extconf.rb
+/Users/jgalindoc/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150601-27326-1wzo4a.rb extconf.rb
 checking for sqlite3.h... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
 checking for rb_proc_arity()... yes
@@ -25,4 +25,4 @@ compiling statement.c
 linking shared-object sqlite3/sqlite3_native.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20150528-37370-1xd1u0w/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20150601-27326-lfx92x/sqlite3
